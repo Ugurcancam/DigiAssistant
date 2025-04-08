@@ -1,0 +1,17 @@
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\bin\Debug\net9.0\DigiAssistant.Service.deps.json
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\bin\Debug\net9.0\DigiAssistant.Service.dll
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\bin\Debug\net9.0\DigiAssistant.Service.pdb
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\bin\Debug\net9.0\DigiAssistant.Core.dll
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\bin\Debug\net9.0\DigiAssistant.Repository.dll
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\bin\Debug\net9.0\DigiAssistant.Repository.pdb
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\bin\Debug\net9.0\DigiAssistant.Core.pdb
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\obj\Debug\net9.0\DigiAssistant.Service.csproj.AssemblyReference.cache
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\obj\Debug\net9.0\DigiAssistant.Service.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\obj\Debug\net9.0\DigiAssistant.Service.AssemblyInfoInputs.cache
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\obj\Debug\net9.0\DigiAssistant.Service.AssemblyInfo.cs
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\obj\Debug\net9.0\DigiAssistant.Service.csproj.CoreCompileInputs.cache
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\obj\Debug\net9.0\DigiAssi.458E5374.Up2Date
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\obj\Debug\net9.0\DigiAssistant.Service.dll
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\obj\Debug\net9.0\refint\DigiAssistant.Service.dll
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\obj\Debug\net9.0\DigiAssistant.Service.pdb
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Service\obj\Debug\net9.0\ref\DigiAssistant.Service.dll

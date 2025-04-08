@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "X/o2IlMCmMu2DqHpws1KvH+84fZ2nRML28NZsJdW1Zk=",
+  "Source": "DigiAssistant.Api",
+  "BasePath": "_content/DigiAssistant.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

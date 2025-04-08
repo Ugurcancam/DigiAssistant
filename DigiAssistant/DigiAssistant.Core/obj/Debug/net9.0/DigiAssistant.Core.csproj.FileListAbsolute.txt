@@ -1,0 +1,11 @@
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Core\bin\Debug\net9.0\DigiAssistant.Core.deps.json
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Core\bin\Debug\net9.0\DigiAssistant.Core.dll
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Core\bin\Debug\net9.0\DigiAssistant.Core.pdb
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Core\obj\Debug\net9.0\DigiAssistant.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Core\obj\Debug\net9.0\DigiAssistant.Core.AssemblyInfoInputs.cache
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Core\obj\Debug\net9.0\DigiAssistant.Core.AssemblyInfo.cs
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Core\obj\Debug\net9.0\DigiAssistant.Core.csproj.CoreCompileInputs.cache
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Core\obj\Debug\net9.0\DigiAssistant.Core.dll
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Core\obj\Debug\net9.0\refint\DigiAssistant.Core.dll
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Core\obj\Debug\net9.0\DigiAssistant.Core.pdb
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Core\obj\Debug\net9.0\ref\DigiAssistant.Core.dll

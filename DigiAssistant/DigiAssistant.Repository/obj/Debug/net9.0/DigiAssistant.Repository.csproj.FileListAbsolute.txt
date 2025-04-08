@@ -1,0 +1,17 @@
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\bin\Debug\net9.0\DigiAssistant.Repository.deps.json
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\bin\Debug\net9.0\DigiAssistant.Repository.runtimeconfig.json
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\bin\Debug\net9.0\DigiAssistant.Repository.dll
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\bin\Debug\net9.0\DigiAssistant.Repository.pdb
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\bin\Debug\net9.0\DigiAssistant.Core.dll
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\bin\Debug\net9.0\DigiAssistant.Core.pdb
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\obj\Debug\net9.0\DigiAssistant.Repository.csproj.AssemblyReference.cache
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\obj\Debug\net9.0\DigiAssistant.Repository.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\obj\Debug\net9.0\DigiAssistant.Repository.AssemblyInfoInputs.cache
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\obj\Debug\net9.0\DigiAssistant.Repository.AssemblyInfo.cs
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\obj\Debug\net9.0\DigiAssistant.Repository.csproj.CoreCompileInputs.cache
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\obj\Debug\net9.0\DigiAssi.0C9EBAA0.Up2Date
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\obj\Debug\net9.0\DigiAssistant.Repository.dll
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\obj\Debug\net9.0\refint\DigiAssistant.Repository.dll
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\obj\Debug\net9.0\DigiAssistant.Repository.pdb
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\obj\Debug\net9.0\DigiAssistant.Repository.genruntimeconfig.cache
+c:\Users\ugurc\OneDrive\Masaüstü\DigiAssistant\DigiAssistant.Repository\obj\Debug\net9.0\ref\DigiAssistant.Repository.dll
